@@ -12,7 +12,7 @@ The "Password Generator" webpage produces a randomly generated password that mat
 
 
 
-![Password Generator Webpage Screenshot](.\assets\password-gen-scrnshot.png)
+![Password Generator Webpage Screenshot](./assets/password-gen-scrnshot.png)
 &nbsp;\
 &nbsp;\
 &nbsp;\
